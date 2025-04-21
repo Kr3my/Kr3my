@@ -43,8 +43,3 @@ I'm a programming student, enthusiast of indie horror RPGs and indie horror seri
 I have some experience in game development, software development and hacking, although I do not consider myself a professional in any area.
 
 I use this account to organize my projects and share them with friends.
-
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kr3my&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr3my&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
